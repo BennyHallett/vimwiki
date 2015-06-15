@@ -1,0 +1,38 @@
+= Vim Customisations =
+
+== General ==
+
+\s      | Toggle Spell Check
+\k      | Run rake
+\m      | Run mix tests
+<C-C>   | Close window
+<C-N>   | Vsplit
+<C-P>   | File finder
+gcip    | Comment Paragraph
+
+== Movement ==
+
+<C-h>   | Move left one pane
+<C-j>   | Move down one pane
+<C-k>   | Move up one pane
+<C-l>   | Move right one pane
+
+== Git ==
+
+\gs     | Git Status
+\gb     | Git Blame
+\gr     | Git Grep
+
+== Rails ==
+
+gf      | Goto File
+\rm     | Goto Model
+\rv     | Goto View
+\rc     | Goto Controller
+\rt     | Start Rails console
+\rs     | Start Rails server
+\rx     | Extract current selection to partial
+\rgc    | Generate controller
+\rgm    | Generate model
+\rgg    | Generate migration
+\rgj    | Generate job

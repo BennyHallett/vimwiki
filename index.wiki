@@ -1,1 +1,5 @@
 = Benny's Wiki =
+
+== Vim ==
+
+* [[Customisations]]
