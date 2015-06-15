@@ -1,0 +1,14 @@
+= Super Jump Arena =
+
+Simple game like Curvytron
+
+* Combination of Curvytron, Super Crate Box and Super Smash Bros
+* 16x16 or 32x32 sprites
+* Customizable sprites
+* Simple pistol / landmine attack options
+* Upgrades for weapons, deployables, movement, jump
+* Points for killing, winning
+* In game chat
+* Lobby Chat
+* Multiple rooms
+* Configurable rooms

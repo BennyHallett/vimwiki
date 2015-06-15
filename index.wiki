@@ -3,3 +3,7 @@
 == Vim ==
 
 * [[Customisations]]
+
+== Ideas ==
+
+* [[Super Jump Arena]]
