@@ -1,0 +1,9 @@
+= Side Project =
+
+== Currently working on ==
+
+_Git Updated_
+
+== Ideas ==
+
+* Tool for facilitating feedback on a mock up or design (JS overlay, click anywhere, add comment, save it, annotate it, version controlled)

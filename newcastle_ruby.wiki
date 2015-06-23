@@ -1,0 +1,7 @@
+= Newcastle Ruby =
+
+* Meet every 2nd wednesday of the month. It needs to not clash with Newcastle coders, startups, or infracoders
+* Would be good to try and record all of the speakers there.
+* Social good, open source projects?
+* Sponsors?
+* Needs a location.

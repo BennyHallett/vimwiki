@@ -1,0 +1,15 @@
+= Professional Development =
+
+== Currently working on ==
+
+_Newcastle Ruby_
+
+== Ideas ==
+
+* Build a large real-time system in Elxir. Could be a card game like Canasta, Euchre, or a more in depth one.
+* One book a month
+* Write a Ruby book
+* Write an Elixir book
+* RoboCup 2d simulation team??
+* Speak at NCG
+* Speak at Newcastle Ruby

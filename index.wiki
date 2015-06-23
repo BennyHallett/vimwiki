@@ -1,5 +1,25 @@
 = Benny's Wiki =
 
+== Focus ==
+
+The number of things I work on concurrently needs to be reduced to around 4.
+These should include [[family|Family]], [[health|Health]], [[professional_development|Professional Development]],
+and [[sideproject|Side Project]]
+
+These categories will more than likely have several things in each, but the
+point is to only focus on one thing from each.
+
+_Current_
+
+* Do things
+* Eat good and play football
+* Newcastle Ruby
+* Git Updated
+
+== Projects ==
+
+* [[newcastle_ruby|Newcastle Ruby]]
+
 == Vim ==
 
 * [[Customisations]]
